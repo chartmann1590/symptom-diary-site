@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Privacy Policy
+    url: https://chartmann1590.github.io/daycare-dons-site/privacy/
+    about: How Daycare Dons handles your information.
+  - name: Delete your data
+    url: https://chartmann1590.github.io/daycare-dons-site/delete/
+    about: No account exists; here is how to remove everything.
